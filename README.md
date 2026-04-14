@@ -23,7 +23,7 @@ This project analyzes AAPL monthly stock performance to demonstrate a complete P
    3. Ensure required packages: pandas, wrds, matplotlib
 6. Product Links
    • GitHub Repository: https://github.com/zyh20060222/ACC102_AAPL_Stock_Analysis
-   • Demo Video: [your video link]
+   • Demo Video: https://xjtlums-my.sharepoint.com/:v:/g/personal/yunhan_zhou24_student_xjtlu_edu_cn/IQCIxRzmgMOeSpb4bfMfhzvpARJ3X-K4H3VRfSEXxttbSq8?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=J7keeD
 7. Limitations & Improvements
    • Only monthly data is used; higher-frequency data could provide more details
    • No advanced modeling or risk metrics included • Future versions can add moving averages and volatility analysis
